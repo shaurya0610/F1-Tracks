@@ -7,6 +7,8 @@ A modern web application that provides track information for each round of the 2
 ## 🛠️ Try it Out
 
 ```bash
+git clone https://github.com/shaurya0610/F1-Tracks.git
+cd F1-Tracks
 bun install
 bun dev    # Builds to localhost:3000
 ```
